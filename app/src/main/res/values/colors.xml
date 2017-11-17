@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="Orange">#ff5722</color>
+    <color name="DeepPurple">#673AB7</color>
+    <color name="DeepPurple900">#311B92</color>
+    <color name="White">#fff</color>
+    <color name="Gray">#888888</color>
+    <color name="Gray100">#dddddd</color>
+    <color name="Gray600">#999999</color>
+
+    <!--剩下部分的颜色定义欠考虑从-->
+    <color name="color_title">#0b9a27</color>
+    <color name="white">#ffffff</color>
+    <color name="gray">#f0f0f0</color>
+    <color name="login_gray">#f3f3f3</color>
+    <color name="gray_dark">#555555</color>
+    <color name="province_line_border">#D0D0D0</color>
+    <color name="character1">#a4a4a4</color>
+    <color name="photopicker_background">#181819</color>
+    <color name="gray_light">#7c7c7c</color>
+    <color name="pink_main">#f05b81</color>
+
+    <color name="gray_bg">#f9f9f9</color>
+    <color name="pink">#66B62E</color>
+    <color name="red_dark">#8E3751</color>
+    <color name="light_blue">#0bb663</color>
+    <color name="white1">#FFFFFF</color>
+    <color name="white2">#f5f5f5</color>
+    <color name="main_bg">#fff0f0f0</color>
+    <color name="grey">#ff58616d</color>
+    <color name="lightgrey">#ff888888</color>
+    <color name="blue1">#dc750e</color>
+    <color name="black">#000000</color>
+    <color name="black1">#2b1f20</color>
+    <color name="transparent">#9000</color>
+    <color name="orange">#ef780e</color>
+    <color name="green">#0a9b0a</color>
+    <color name="pin">#f5717e</color>
+    <color name="sign">#FFEBCD</color>
+    <color name="darkgray">#A9A9A9</color>
+    <color name="turquoise">#DBB67B</color>
+    <color name="moneyspinner">#6C3B21</color>
+    <color name="brown">#65371f</color>
+    <color name="colorTabHint">#64B3E9</color>
+    <color name="btn_press_color">#5677fc</color>
+    <color name="btn_pressed_color">#3ca0ec</color>
+    <color name="bar">#bc35a3</color>
+
+    <color name="viewfinder_laser">#ffcc0000</color> <!-- Android standard ICS color -->
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="result_minor_text">#ffc0c0c0</color>
+    <color name="result_points">#c099cc00</color> <!-- Android standard ICS color -->
+    <color name="result_text">#ffffffff</color>
+    <color name="result_view">#b0000000</color>
+    <color name="status_text">#ffffffff</color>
+    <color name="possible_result_points">#c0ffbd21</color>
+    <color name="red">#ff0000</color>
+    <color name="background">#efefef</color>
+    <color name="blue">#5677fc</color>
+    <color name="bluegrey">#4e6cef</color>
+    <color name="graydeep">#666</color>
+    <color name="graylight">#ddd</color>
+    <color name="alphagray">#66666666</color>
+    <color name="lightblack">#111111</color>
+</resources>
